@@ -12,4 +12,4 @@ Hello. Welcome to my blog.
 
 My name is Jackson Chen.
 
-I am now a master student which studying in machine learning.
+I am now a master student who studying of machine learning.
