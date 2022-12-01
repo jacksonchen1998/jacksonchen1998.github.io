@@ -1,6 +1,6 @@
 ---
 title: "Posture"
-excerpt: "College graduation project<br/><img src='/images/posture.png' width="400">"
+excerpt: "College graduation project<br/><img src='/images/posture.png' width="500" height="300">"
 collection: portfolio
 date: 2020-12-31
 ---
