@@ -2,7 +2,7 @@
 title: "Posture"
 excerpt: "College graduation project<br/><img src='/images/posture.png' width="400">"
 collection: portfolio
-date: 2020-07-01 ~ 2020-12-31
+date: 2020-12-31
 ---
 
 It’s my independent study with 3 others of my classmates.
