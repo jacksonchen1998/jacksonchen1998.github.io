@@ -133,7 +133,7 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
   <img src="/images/scence2.png" style="width:100%">
-  <div class="text">Australian Beaches</div>
+  <div class="text">Australian Beach</div>
 </div>
 
 <div class="mySlides fade">
