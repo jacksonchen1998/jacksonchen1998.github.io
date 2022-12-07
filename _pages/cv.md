@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://drive.google.com/file/d/1HF_Ly1FylGd04GYQF_sdh04yElt5geCq/view?usp=sharing)
+<iframe src="https://drive.google.com/file/d/1HF_Ly1FylGd04GYQF_sdh04yElt5geCq/preview" width="640" height="480" allow="autoplay"></iframe>
