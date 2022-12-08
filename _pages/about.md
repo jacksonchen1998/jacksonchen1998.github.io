@@ -164,7 +164,8 @@ function showSlides(n) {
 }
 </script>
 
-<div>
+
+<span style="display:block" class="note">
 
 Hello. Welcome to my blog.
 
@@ -185,4 +186,4 @@ Briefly introduce each tab for my blog:
 5. Blog Posts: Some personal thoughts
 6. CV: As you know
 
-</div>
+</span>
