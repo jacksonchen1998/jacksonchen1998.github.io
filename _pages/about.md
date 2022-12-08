@@ -164,6 +164,8 @@ function showSlides(n) {
 }
 </script>
 
+<div>
+
 Hello. Welcome to my blog.
 
 My name is Jackson Chen.
@@ -182,3 +184,5 @@ Briefly introduce each tab for my blog:
 4. Portfolio: Side project
 5. Blog Posts: Some personal thoughts
 6. CV: As you know
+
+</div>
