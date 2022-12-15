@@ -8,6 +8,35 @@ redirect_from:
   - /about.html
 ---
 
+<div>
+
+Hello. Welcome to my blog. <br><br>
+
+My name is Jackson Chen. <br><br>
+
+I am now a master student who studying of machine learning. <br><br>
+
+This link have some tutorial which I recommend, if you're studying in CGU.  <br><br>
+
+<a href="https://hackmd.io/GbY28RBLQQWtuam7axGfGg" title="Optional Title">CGU CS Course & some tools</a> <br><br>
+
+Briefly introduce each tab for my blog:  <br>
+
+<ol>
+  <li>Publications: Notes for school, or my published paper (if I can graduated :))</li>
+  <li>Talks: Paper's powerpoint from meeting, course, seminar...</li>
+  <li>Teaching: Currently no issue.</li>
+  <li>Portfolio: Side project</li>
+  <li>Blog Posts: Some personal thoughts</li>
+  <li>CV: As you know</li>
+</ol>
+
+## Personal travel site MAP
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11uEqrUqviLk2cDmxT0INWQeQCyVYESs&ehbc=2E312F" width="100%" height="480"></iframe>
+
+</div>
+
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
@@ -163,32 +192,3 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-
-<div>
-
-Hello. Welcome to my blog. <br><br>
-
-My name is Jackson Chen. <br><br>
-
-I am now a master student who studying of machine learning. <br><br>
-
-This link have some tutorial which I recommend, if you're studying in CGU.  <br><br>
-
-<a href="https://hackmd.io/GbY28RBLQQWtuam7axGfGg" title="Optional Title">CGU CS Course & some tools</a> <br><br>
-
-Briefly introduce each tab for my blog:  <br>
-
-<ol>
-  <li>Publications: Notes for school, or my published paper (if I can graduated :))</li>
-  <li>Talks: Paper's powerpoint from meeting, course, seminar...</li>
-  <li>Teaching: Currently no issue.</li>
-  <li>Portfolio: Side project</li>
-  <li>Blog Posts: Some personal thoughts</li>
-  <li>CV: As you know</li>
-</ol>
-
-## Personal travel site MAP
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11uEqrUqviLk2cDmxT0INWQeQCyVYESs&ehbc=2E312F" width="100%" height="480"></iframe>
-
-</div>
