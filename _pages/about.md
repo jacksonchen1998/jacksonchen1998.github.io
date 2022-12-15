@@ -31,10 +31,12 @@ Briefly introduce each tab for my blog:  <br>
   <li>CV: As you know</li>
 </ol>
 
-## Personal travel site MAP
+<span class="bold">Personal travel site MAP</span>
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=11uEqrUqviLk2cDmxT0INWQeQCyVYESs&ehbc=2E312F" width="100%" height="480"></iframe>
 
+
+<br><br>
 </div>
 
 <style>
@@ -48,6 +50,11 @@ img {vertical-align: middle;}
   max-width: 1000px;
   position: relative;
   margin: auto;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 20px;
 }
 
 /* Next & previous buttons */
