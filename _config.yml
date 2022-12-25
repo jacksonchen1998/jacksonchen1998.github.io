@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jackson Chen's Blog"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jackson Chen"
 description              : &description "personal description"
 url                      : https://jacksonchen1998.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jackson Chen (陳柏全)"
+  name             : "Po-Chuan, Chen"
   avatar           : "profile.png"
   bio              : "EE/CS student in Taiwan"
   location         : "Taiwan"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  medium           : "https://medium.com/@jackson1998"
 
 
 # Reading Files

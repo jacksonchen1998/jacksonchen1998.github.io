@@ -4,10 +4,12 @@ collection: publications
 permalink: /publication/2022-Fall-NYCU
 excerpt: 'Those are my notes for taking courses'
 date: 2022-10-10
-venue: 'Course Note'
+venue: 'NCTU CS Course'
 paperurl: 
-citation: 
+citation:
 ---
+
+> Incude in [NCTU CS Course](https://hackmd.io/@calee/ByOm-sFue?type=view)
 
 * [應用電腦視覺 - 鄭文皇 (2022 Fall)](https://hackmd.io/8hkiif7lRYq-9hmWxB_Fxw)
 
