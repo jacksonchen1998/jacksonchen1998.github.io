@@ -121,6 +121,9 @@
       {% if author.medium %}
         <li><a href="{{ author.medium }}"><i class="fab fa-fw fa-medium" aria-hidden="true"></i> Medium</a></li>
       {% endif %}
+      {% if author.hackmd %}
+        <li><a href="https://hackmd.io/@{{ author.hackmd }}"><i class="fab fa-fw fa-hackmd" aria-hidden="true"></i> HackMD</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
