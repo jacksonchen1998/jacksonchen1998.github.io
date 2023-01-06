@@ -178,7 +178,7 @@ kramdown:
 
 # Collections
 collections:
-  Experience:
+  experiences:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -212,10 +212,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _Experience
+  # _experiences
   - scope:
       path: ""
-      type: Experience
+      type: experiences
     values:
       layout: single
       author_profile: true
