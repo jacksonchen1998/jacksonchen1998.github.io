@@ -1,6 +1,6 @@
 ---
 title: "Experience 2"
-collection: teaching
+collection: Experience
 type: "Workshop"
 permalink: /Experience/2015-spring-Experience-1
 venue: "University 1, Department"
