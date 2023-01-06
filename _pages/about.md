@@ -25,7 +25,7 @@ Briefly introduce each tab for my blog:  <br>
 <ol>
   <li>Publications: Notes for school, or my published paper (if I can graduated :))</li>
   <li>Talks: Paper's powerpoint from meeting, course, seminar...</li>
-  <li>Experiences: Currently no issue.</li>
+  <li>Experience: Currently no issue.</li>
   <li>Portfolio: Side project</li>
   <li>Blog Posts: Some personal thoughts</li>
   <li>CV: As you know</li>
