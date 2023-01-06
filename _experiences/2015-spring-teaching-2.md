@@ -1,8 +1,8 @@
 ---
 title: "Experience 2"
-collection: Experience
+collection: experiences
 type: "Workshop"
-permalink: /Experience/2015-spring-Experience-1
+permalink: /experiences/2015-spring-Experience-1
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
