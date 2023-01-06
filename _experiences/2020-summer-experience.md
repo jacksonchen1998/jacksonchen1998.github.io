@@ -10,8 +10,16 @@ location: "Taipei, Taiwan"
 
 Job Description
 ======
-
 * Research on the application of embedding system in the field of internet of things.
 * Paper presentation and discussion.
 * Learning the basic knowledge of the field of Linux kernel and embedded system.
 * Prepare competition report and presentation.
+
+Skills
+======
+* Python
+* Linux
+
+Achievements
+======
+* Successfully completed the project of the Internet of Things.
