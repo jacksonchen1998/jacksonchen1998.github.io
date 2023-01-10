@@ -212,6 +212,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      comments: true
   # _experiences
   - scope:
       path: ""
@@ -238,7 +239,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
@@ -247,6 +248,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
