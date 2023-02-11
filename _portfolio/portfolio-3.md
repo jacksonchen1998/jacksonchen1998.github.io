@@ -10,9 +10,9 @@ date: 2023-02-11
 
 I will use Mandarin to write some notes and implement the model from scratch.
 
-Without some powerful library like `pytorch` or `tensorflow`, it can be pretty hard to use machine learning.
+Without some powerful libraries like `pytorch` or `tensorflow`, it can be pretty hard to use machine learning.
 
-For the first section, I will try to implement model down below
+For the first section, I will try to implement the model down below
 1. Linear Regression
 2. Convolutional Neural Network
 3. K-Nearest Neighbors
