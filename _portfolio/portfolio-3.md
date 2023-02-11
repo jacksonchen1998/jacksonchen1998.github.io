@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning From Scratch"
-excerpt: "Personal Side Project<br/><img src='/images/Machine%20Learning%20from Scratch.png'>"
+excerpt: "Personal Side Project<br/><img src='/images/Machine%20Learning%20from Scratch.png' width=100%>"
 collection: portfolio
 date: 2023-02-11
 ---
