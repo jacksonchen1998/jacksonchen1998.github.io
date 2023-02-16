@@ -1,7 +1,7 @@
 ---
 title: "2023-Spring-NYCU Course Note"
 collection: publications
-permalink: /publication/2023-02-16-Spring-NYCU
+permalink: /publication/2023-Spring-NYCU
 excerpt: 'Those are my notes for taking courses'
 date: 2023-02-15
 venue: 'NCTU CS Course'
