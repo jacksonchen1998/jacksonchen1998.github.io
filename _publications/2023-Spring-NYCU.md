@@ -1,14 +1,13 @@
 ---
 title: "2023-Spring-NYCU Course Note"
 collection: publications
-permalink: /publication/2023-Spring-NYCU
+permalink: /publication/2023-02-16-Spring-NYCU
 excerpt: 'Those are my notes for taking courses'
 date: 2023-02-16
 venue: 'NCTU CS Course'
-paperurl: 
+paperurl:
 citation:
 ---
-
 > Incude in [NCTU CS Course](https://hackmd.io/@calee/ByOm-sFue?type=view)
 
 * [深度學習 - 簡仁宗 (2023 Spring)](https://hackmd.io/@birdsAREnotREAL/ry-g_4wTo)
