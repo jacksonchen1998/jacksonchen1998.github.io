@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello. Welcome to my blog. <br><br>
+<img src ='/images/hello.jpg' width="100%"><br>
 
-My name is Jackson Chen. <br><br>
+This link have some tutorial which I recommend, if you're studying in CGU.
 
-I am now a master student who studying of machine learning. <br><br>
-
-This link have some tutorial which I recommend, if you're studying in CGU.  <br><br>
-
-<a href="https://hackmd.io/GbY28RBLQQWtuam7axGfGg" title="Optional Title">CGU CS Course & some tools</a> <br><br>
+<a href="https://hackmd.io/GbY28RBLQQWtuam7axGfGg" title="Optional Title">CGU CS Course & some tools</a>
 
 Briefly introduce each tab for my blog:  <br>
 
