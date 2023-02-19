@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 <div>
-<img src ='/images/hello.jpg' width="100%"><br>
+<img src ='/images/hello.jpg' width="100%"><br><br>
 
-This link have some tutorial which I recommend, if you're studying in CGU.
+This link have some tutorial which I recommend, if you're studying in CGU.<br><br>
 
-<a href="https://hackmd.io/GbY28RBLQQWtuam7axGfGg" title="Optional Title">CGU CS Course & some tools</a>
+<a href="https://hackmd.io/GbY28RBLQQWtuam7axGfGg" title="Optional Title">CGU CS Course & some tools</a><br><br>
 
 Briefly introduce each tab for my blog:  <br>
 
