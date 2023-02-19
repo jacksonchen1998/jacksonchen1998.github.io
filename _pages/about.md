@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div>
 <img src ='/images/hello.jpg' width="100%"><br>
 
 This link have some tutorial which I recommend, if you're studying in CGU.
