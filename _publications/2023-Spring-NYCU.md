@@ -17,5 +17,3 @@ citation:
 * [強化學習原理 - 謝秉均 (2023 Spring)](https://hackmd.io/@birdsAREnotREAL/B1-mKQt6s)
 
 * [圖形識別 - 林昇甫 (2023 Spring)](https://hackmd.io/@birdsAREnotREAL/HkItSNvTi)
-
-* [雲原生軟體開發與最佳實踐 - 黃俊龍、曾建超 (2023 Spring)](https://hackmd.io/cfGJaFsZSzqWAm-9qZO00A?view)
