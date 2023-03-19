@@ -43,8 +43,13 @@ This post will show you how to set up a machine learning enivorment for windows.
 ## Tensorflow (conda install)
 
 After creating a new env bsed on anaconda and activate it.
+- [Version check](https://tensorflow.google.cn/install/source_windows?hl=en#gpu)
+- Search tensorflow version `conda search tensorflow`
+- Search tensorflow-gpu `conda search tensorflow-gpu`
 - Install tensorflow `conda install tensorflow`
 - Install tensorflow-gpu `conda install tensorflow-gpu`
+- `conda install tenssorflow==2.10.0`
+- `conda install tensorflow-gpu==2.6.0`
 
 ## Pytorch (conda install)
 
