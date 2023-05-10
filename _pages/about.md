@@ -12,7 +12,16 @@ redirect_from:
 
 This link have some tutorial which I recommend, if you're studying in CGU.<br><br>
 
-<a href="https://hackmd.io/GbY28RBLQQWtuam7axGfGg" title="Optional Title">CGU CS Course & some tools</a><br><br>
+<center>
+  <a href="https://github.com/jacksonchen1998/Awesome-CGU-CS">
+<img src="/images/awesome.png" alt="awesome" style="width:400px;height:100px;">
+</a>
+</center>
+
+<br><br>
+
+
+<!-- <a href="https://hackmd.io/GbY28RBLQQWtuam7axGfGg" title="Optional Title">CGU CS Course & some tools</a><br><br> -->
 
 Briefly introduce each tab for my blog:  <br>
 
