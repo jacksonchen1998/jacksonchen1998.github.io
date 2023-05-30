@@ -124,8 +124,11 @@
       {% if author.hackmd %}
         <li><a href="https://hackmd.io/@{{ author.hackmd }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> HackMD</a></li>
       {% endif %}
-      {% if author.hackmd %}
+      {% if author.leetcode %}
       <li><a href="https://leetcode.com/{{ author.leetcode }}/"><i class="fas fa-fw fa-link" aria-hidden="true"></i> LeetCode</a></li>
+    {% endif %}
+    {% if author.kaggle %}
+      <li><a href="https://www.kaggle.com/{{ author.kaggle }}/"><i class="fab fa-kaggle" aria-hidden="true"></i> Kaggle</a></li>
     {% endif %}
     </ul>
   </div>
