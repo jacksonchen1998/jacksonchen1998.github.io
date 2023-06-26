@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my blog"
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,18 +8,6 @@ redirect_from:
   - /about.html
 ---
 <div>
-<img src ='/images/hello.jpg' width="100%"><br><br>
-
-This link have some tutorial which I recommend, if you're studying in CGU.<br><br>
-
-<center>
-  <a href="https://github.com/jacksonchen1998/Awesome-CGU-CS">
-<img src="/images/awesome.png" alt="awesome" style="width:400px;height:100px;">
-</a>
-</center>
-
-<br><br>
-
 
 <!-- <a href="https://hackmd.io/GbY28RBLQQWtuam7axGfGg" title="Optional Title">CGU CS Course & some tools</a><br><br> -->
 
@@ -33,6 +21,16 @@ Briefly introduce each tab for my blog:  <br>
   <li>Blog Posts: Some personal thoughts</li>
   <li>CV: As you know</li>
 </ol>
+
+This link have some tutorial which I recommend, if you're studying in CGU.<br><br>
+
+<center>
+  <a href="https://github.com/jacksonchen1998/Awesome-CGU-CS">
+<img src="/images/awesome.png" alt="awesome" style="width:400px;height:100px;">
+</a>
+</center>
+
+<br><br>
 
 <span class="bold">Personal travel site MAP</span>
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jackson Chen's Blog"
+title                    : "JC-Blog"
 title_separator          : "-"
 name                     : &name "Jackson Chen"
 description              : &description "personal description"
