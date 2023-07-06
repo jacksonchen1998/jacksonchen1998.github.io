@@ -2,7 +2,7 @@
 title: "Mental Health Chatbot"
 excerpt: "Team project in National Yang-Ming Chiao-Tung University<br/><img src='/images/nycuka.png'>"
 collection: portfolio
-date: 2023-07-06
+date: 2023-07-01
 ---
 
 **This project is still in progress !**
