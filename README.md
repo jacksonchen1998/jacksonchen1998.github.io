@@ -1,1 +1,1 @@
-This project is for building my blog.
+My blog ~
