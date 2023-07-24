@@ -21,3 +21,4 @@ In this project, I am responsible for the following tasks:
 - Design the front-end of the interface for the counselor
 - Build Dummy Chinese Data for the chatbot
 - Design Chinese Prompt for the dialog flow
+- Define the differnce between the Traditional Chinese and Simplified Chinese (Text / Speech)
