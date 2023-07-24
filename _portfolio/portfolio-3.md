@@ -20,3 +20,4 @@ The main objective of this work is to improve efficiency of the traditional univ
 In this project, I am responsible for the following tasks:
 - Design the front-end of the interface for the counselor
 - Build Dummy Chinese Data for the chatbot
+- Design Chinese Prompt for the dialog flow
