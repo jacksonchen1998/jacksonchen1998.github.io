@@ -31,7 +31,7 @@ redirect_from:
     </a>
 </div>
 
-<div class="row" style="margin-top: 30px; margin-bottom: 30px;">
+<div class="row">
     <div class="column">
     <a href="https://github.com/jacksonchen1998/Awesome-CGU-CS-AI">
       <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonchen1998&repo=Awesome-CGU-CS-AI&theme=default&show_owner=false" alt="awesome">
@@ -85,6 +85,10 @@ img {vertical-align: middle;}
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
+}
+
+.github{
+  margin-down: 50px;
 }
 
 .map {
