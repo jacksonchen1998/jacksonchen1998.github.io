@@ -11,26 +11,27 @@ redirect_from:
 
 <!-- <a href="https://hackmd.io/GbY28RBLQQWtuam7axGfGg" title="Optional Title">CGU CS Course & some tools</a><br><br> -->
 
-Briefly introduce each tab for my blog:  <br>
-
+<div class="homepage">
+ <p class="map-title">My Website</p>
 <ol>
-  <li>Publications: Notes for school, or my published paper (if I can graduated :))</li>
+  <li>Publications: Notes for school, or my published paper</li>
   <li>Talks: Paper's powerpoint from meeting, course, seminar...</li>
   <li>Experience: Work experience</li>
   <li>Portfolio: Side project</li>
   <li>Blog Posts: Some personal thoughts</li>
   <li>CV: As you know</li>
 </ol>
+</div>
 
-This link have some tutorial which I recommend, if you're studying in CGU.<br><br>
-
-<div class="center">
+<div class="github">
+  <p class="map-title">My Github</p>
+  <div class="center">
   <a href="https://github.com/jacksonchen1998">
       <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/?username=jacksonchen1998&theme=default&show_icons=true" alt="jacksonchen1998">
     </a>
 </div>
 
-<div class="row" style="margin-top: 30px;">
+<div class="row" style="margin-top: 30px; margin-bottom: 30px;">
     <div class="column">
     <a href="https://github.com/jacksonchen1998/Awesome-CGU-CS-AI">
       <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonchen1998&repo=Awesome-CGU-CS-AI&theme=default&show_owner=false" alt="awesome">
