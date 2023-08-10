@@ -25,9 +25,7 @@ Briefly introduce each tab for my blog:  <br>
 This link have some tutorial which I recommend, if you're studying in CGU.<br><br>
 
 <center>
-  <a href="https://github.com/jacksonchen1998/Awesome-CGU-CS">
-<img src="/images/awesome.png" alt="awesome" style="width:400px;height:100px;">
-</a>
+  <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonchen1998&repo=Awesome-CGU-CS-AI&theme=default&show_owner=false" alt="awesome">
 </center>
 
 <br><br>
