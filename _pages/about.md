@@ -37,7 +37,7 @@ This link have some tutorial which I recommend, if you're studying in CGU.<br><b
     </a>
   </div>
   <div class="column">
-    <a href="https://github.com/jacksonchen1998/Awesome-CGU-CS-AI">
+    <a href="https://github.com/jacksonchen1998/Empowering-NLG">
       <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonchen1998&repo=Empowering-NLG&theme=default&show_owner=false" alt="awesome">
     </a>
   </div>
@@ -91,9 +91,12 @@ img {vertical-align: middle;}
 }
 
 .map-title {
-  font-size: 20px;
-  font-weight: bold;
+  background-color: #2E312F;
+  color: white;
+  padding: 16px;
   text-align: center;
+  font-size: 20px;
+  font-family: "Lucida Console", Courier, monospace;
 }
 
 /* Position the "next button" to the right */
