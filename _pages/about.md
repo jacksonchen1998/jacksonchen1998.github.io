@@ -24,13 +24,16 @@ Briefly introduce each tab for my blog:  <br>
 
 This link have some tutorial which I recommend, if you're studying in CGU.<br><br>
 
-<center>
-  <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonchen1998&repo=Awesome-CGU-CS-AI&theme=default&show_owner=false" alt="awesome">
-</center>
+<div class="row">
+  <div class="column">
+    <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/?username=jacksonchen1998&theme=default&show_icons=true" alt="jacksonchen1998">
+  </div>
+  <div class="column">
+    <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonchen1998&repo=Awesome-CGU-CS-AI&theme=default&show_owner=false" alt="awesome">
+  </div>
+</div>
 
 <br><br>
-
-<span class="bold">Personal travel site MAP</span>
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=11uEqrUqviLk2cDmxT0INWQeQCyVYESs&ehbc=2E312F" width="100%" height="480"></iframe>
 
@@ -133,6 +136,17 @@ img {vertical-align: middle;}
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.img-fluid {
+  width: 100%;
+  height: auto;
 }
 </style>
 
