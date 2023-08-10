@@ -24,22 +24,29 @@ Briefly introduce each tab for my blog:  <br>
 
 This link have some tutorial which I recommend, if you're studying in CGU.<br><br>
 
-<div class="row">
-  <div class="column">
-    <a href="https://github.com/jacksonchen1998">
+<div class="center">
+  <a href="https://github.com/jacksonchen1998">
       <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/?username=jacksonchen1998&theme=default&show_icons=true" alt="jacksonchen1998">
     </a>
-  </div>
-  <div class="column">
+</div>
+
+<div class="row" style="margin-top: 30px;">
+    <div class="column">
     <a href="https://github.com/jacksonchen1998/Awesome-CGU-CS-AI">
       <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonchen1998&repo=Awesome-CGU-CS-AI&theme=default&show_owner=false" alt="awesome">
     </a>
   </div>
+  <div class="column">
+    <a href="https://github.com/jacksonchen1998/Awesome-CGU-CS-AI">
+      <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonchen1998&repo=Empowering-NLG&theme=default&show_owner=false" alt="awesome">
+    </a>
+  </div>
 </div>
 
-<br><br>
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11uEqrUqviLk2cDmxT0INWQeQCyVYESs&ehbc=2E312F" width="100%" height="480"></iframe>
+<div class="map">
+  <p class="map-title">My Personal Map</p>
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=11uEqrUqviLk2cDmxT0INWQeQCyVYESs&ehbc=2E312F" width="100%" height="480"></iframe>
+</div>
 
 
 <br><br>
@@ -77,6 +84,16 @@ img {vertical-align: middle;}
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
+}
+
+.map {
+  margin-top: 150px;
+}
+
+.map-title {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
 }
 
 /* Position the "next button" to the right */
@@ -146,6 +163,13 @@ img {vertical-align: middle;}
   float: left;
   width: 50%;
   padding: 10px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .img-fluid {
