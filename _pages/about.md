@@ -26,10 +26,14 @@ This link have some tutorial which I recommend, if you're studying in CGU.<br><b
 
 <div class="row">
   <div class="column">
-    <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/?username=jacksonchen1998&theme=default&show_icons=true" alt="jacksonchen1998">
+    <a href="https://github.com/jacksonchen1998">
+      <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/?username=jacksonchen1998&theme=default&show_icons=true" alt="jacksonchen1998">
+    </a>
   </div>
   <div class="column">
-    <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonchen1998&repo=Awesome-CGU-CS-AI&theme=default&show_owner=false" alt="awesome">
+    <a href="https://github.com/jacksonchen1998/Awesome-CGU-CS-AI">
+      <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonchen1998&repo=Awesome-CGU-CS-AI&theme=default&show_owner=false" alt="awesome">
+    </a>
   </div>
 </div>
 
