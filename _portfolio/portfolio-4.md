@@ -8,6 +8,7 @@ date: 2023-09-01
 This is a personal side project that I am working on. I am trying to implement some machine learning algorithms from scratch. 
 
 [GitHub Repository](https://github.com/jacksonchen1998/ML-from-scratch)
+
 [iThome 30 Days](https://ithelp.ithome.com.tw/users/20152821/ironman/6152)
 
 Every algorithm has three parts:
