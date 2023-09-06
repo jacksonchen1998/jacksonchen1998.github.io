@@ -8,7 +8,7 @@ date: 2020-09-01
 location: "Taipei, Taiwan"
 ---
 
-Here is the description of my experience.
+Duration: Jul. 2020 - Sep. 2020 (3 months)
 
 Job Description
 ======
