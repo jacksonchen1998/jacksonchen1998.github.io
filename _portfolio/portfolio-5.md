@@ -13,12 +13,11 @@ It contains all the basic algorithms and data structures implemented in Kotlin.
 
 [iThome 30 Days](https://ithelp.ithome.com.tw/users/20152821/ironman/6695)
 
-Every algorithm has three parts:
-- Using the algorithm to solve a problem with libraries
-- Using the algorithm to solve a problem without libraries (from scratch)
-- Using the algorithm to solve a real-world problem
+## Table of Contents
 
-## Data Structures (Day 2 - Day 5)
+### Introduction (Day 1)
+
+### Data Structures (Day 2 - Day 5)
 
 - Array
 - Linked List
@@ -29,7 +28,7 @@ Every algorithm has three parts:
 - Trie
 - Graph
 
-## Sorting Algorithm (Day 6 - Day 10)
+### Sorting Algorithm (Day 6 - Day 10)
 
 - Bubble Sort
 - Selection Sort
@@ -41,13 +40,13 @@ Every algorithm has three parts:
 - Radix Sort
 - Bucket Sort
 
-## Tree (Day 11 - Day 12)
+### Tree (Day 11 - Day 12)
 
 - Binary Search Tree
 - AVL Tree
 - Red-Black Tree
 
-## Graph (Day 13 - Day 16)
+### Graph (Day 13 - Day 16)
 
 - Breadth First Search
 - Depth First Search
@@ -58,7 +57,7 @@ Every algorithm has three parts:
 - Prim's Algorithm
 - Kruskal's Algorithm
 
-## Dynamic Programming (Day 17 - Day 20)
+### Dynamic Programming (Day 17 - Day 20)
 
 - Fibonacci Sequence
 - Longest Common Subsequence
@@ -69,7 +68,7 @@ Every algorithm has three parts:
 - Matrix Chain Multiplication
 - Edit Distance
 
-## Greedy Algorithm (Day 21 - Day 24)
+### Greedy Algorithm (Day 21 - Day 24)
 
 - Activity Selection Problem
 - Huffman Coding
@@ -78,7 +77,7 @@ Every algorithm has three parts:
 - Minimum Spanning Tree
 - Shortest Path
 
-## Backtracking (Day 25 - Day 29)
+### Backtracking (Day 25 - Day 29)
 
 - N-Queens Problem
 - Sudoku Solver
