@@ -5,9 +5,7 @@ collection: portfolio
 date: 2023-09-21
 ---
 
-This is a course homework for Engineering Design.
-
-It is a powerpoint for a each course's exercise.
+This portfolio is for the course Engineering Design in NYCU.
 
 [GitHub Repository](https://github.com/jacksonchen1998/2023-NYCU-Engineering-Design/)
 
