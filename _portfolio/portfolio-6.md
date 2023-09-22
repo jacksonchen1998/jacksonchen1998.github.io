@@ -1,5 +1,5 @@
 ---
-title: "Powerpoint for Engineering Design"
+title: "Engineering Design"
 excerpt: "Course homework<br/><img src='/images/ppt.png'>"
 collection: portfolio
 date: 2023-09-21
