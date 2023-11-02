@@ -16,3 +16,7 @@ This portfolio is for the course Engineering Design in NYCU.
 ## Introduce yourself
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLTHOMD5-bViUyux18Y81RHvgy0jekN1BwjvP6cUZfDco4RzvXI6Fn-YYBzkFJWA/embed?start=true&loop=true&delayms=10000" frameborder="0" width="100%" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Midterm Presentation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSQo24aZ-dTgvdHm_mmAfYBS8xv4yUzFUjs9sggAJnlryQmd6GyeRrZPnXYKRU6_Q/embed?start=true&loop=true&delayms=3000" frameborder="0" width="100%" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
