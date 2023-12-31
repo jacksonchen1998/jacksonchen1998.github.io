@@ -1,8 +1,7 @@
 ---
 title: "Machine Learning Enivorment Settings for Windows"
-collection: talks
 type: "posts"
-permalink: /talks/2023-03-17-posts
+permalink: /posts/2023-03-17-posts
 ---
 
 This post will show you how to set up a machine learning enivorment for windows.
