@@ -1,5 +1,5 @@
 ---
-title: "2023 Rewind"
+title: "2024 New Year Resolution"
 type: "posts"
 permalink: /posts/2023-12-31-posts
 ---
