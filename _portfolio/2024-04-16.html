@@ -1,0 +1,65 @@
+---
+title: "2023-2024 NBA Playoff"
+excerpt: "For Fun"
+collection: portfolio
+date: 2024-04-16
+---
+
+
+<!-- Canvas element to draw the chart -->
+<canvas id="voteChart" width="600" height="400"></canvas>
+
+    <script>
+        // Get the canvas element and its 2D drawing context
+        const canvas = document.getElementById('voteChart');
+        const ctx = canvas.getContext('2d');
+
+        // Data for ranks, player names, and scores
+        const ranks = ['Rank 1', 'Rank 2', 'Rank 3', 'Rank 4', 'Rank 5'];
+        const playerNames = ['比爾', 'Lance', 'Chrïs', '_w1998', '安東東'];
+        const scores = [1, 1, 1, 1, 1];
+
+        // Calculate width and height of each bar
+        const barWidth = (canvas.width / ranks.length) * 0.8;
+        const maxScore = Math.max(...scores);
+        const canvasHeight = canvas.height - 40; // leave space for labels
+
+        // Draw the bars and labels
+        for (let i = 0; i < ranks.length; i++) {
+            // Calculate the height of each bar based on score
+            const barHeight = (scores[i] / maxScore) * canvasHeight;
+
+            // Draw the bar
+            ctx.fillStyle = 'blue';
+            ctx.fillRect(
+                i * (canvas.width / ranks.length),
+                canvasHeight - barHeight,
+                barWidth,
+                barHeight
+            );
+
+            // Add rank labels below each bar
+            ctx.fillStyle = 'black';
+            ctx.textAlign = 'center';
+            ctx.font = '14px Arial';
+            ctx.fillText(
+                ranks[i],
+                i * (canvas.width / ranks.length) + barWidth / 2,
+                canvasHeight + 20
+            );
+
+            // Add player names below rank labels
+            ctx.fillText(
+                playerNames[i],
+                i * (canvas.width / ranks.length) + barWidth / 2,
+                canvasHeight + 35
+            );
+
+            // Add score labels above the bars
+            ctx.fillText(
+                scores[i],
+                i * (canvas.width / ranks.length) + barWidth / 2,
+                canvasHeight - barHeight - 10
+            );
+        }
+</script>
