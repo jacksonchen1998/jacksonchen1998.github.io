@@ -1,6 +1,6 @@
 ---
 title: "Multi-turn Dialogue Response"
-excerpt: "Master Thesis<br/><img src='/images/kitm.png'>"
+excerpt: "Master Thesis<br/><img src='/images/kitm.jpg'>"
 collection: portfolio
 date: 2024-08-27
 ---
