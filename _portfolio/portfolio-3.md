@@ -5,8 +5,6 @@ collection: portfolio
 date: 2023-07-01
 ---
 
-**This project is still in progress !**
-
 The main objective of this work is to improve efficiency of the traditional university counseling process by transforming it to be more user-friendly and attractive. It can be achieved by incorporating AI to provide more human-like interaction. So that system can gather more information that can be helpful for the counselors during face-to-face counseling by keeping touch with the student. The system's main focus is not doing any counseling. Instead, it focuses on two different parts of the counseling process:
 
 1. Counseling application stage, in which We aim to simplify the process to attract more student interest. 
@@ -22,3 +20,4 @@ In this project, I am responsible for the following tasks:
 - Build Dummy Chinese Data for the chatbot
 - Design Chinese Prompt for the dialog flow
 - Define the differnce between the Traditional Chinese and Simplified Chinese (Text / Speech)
+- Create dataset for Chinese counseling
