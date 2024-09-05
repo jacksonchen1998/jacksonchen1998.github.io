@@ -2,7 +2,7 @@
 title: "Empowering NLG: Offline Reinforcement Learning for Informal Summarization in Online Domains"
 collection: publications
 permalink: /publication/2023-06-17-Empowering
-excerpt: 'Research paper for Natural Language Generation (NLG)'
+excerpt: 'Using RL to guide language model to generate higher likes comment'
 date: 2023-06-17
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2306.17174'
