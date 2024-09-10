@@ -42,6 +42,11 @@ redirect_from:
       <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonchen1998&repo=Multi-turn-Dialogue-Response&theme=default&show_owner=false" alt="awesome">
     </a>
   </div>
+  <div class="column">
+    <a href="https://github.com/jacksonchen1998/LLaMA-Paper-List">
+      <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonchen1998&repo=LLaMA-Paper-List&theme=default&show_owner=false" alt="awesome">
+    </a>
+  </div>
 </div>
 
 <br><br><br><br><br><br>
