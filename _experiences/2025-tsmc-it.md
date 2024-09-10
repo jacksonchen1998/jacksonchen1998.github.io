@@ -4,11 +4,11 @@ collection: experiences
 type: "Full-time"
 permalink: /experiences/2024-tsmc-Experience-1
 venue: "Taiwan Semiconductor Manufacturing Company, Artificial Intelligence Application and Platform Department"
-date: 2024-07-31
+date: 2024-09-09
 location: "Hsinchu, Taiwan"
 ---
 
-**Expected to join in December 2024**
+**Expected to join in May 2025**
 
 Job Description
 ======
