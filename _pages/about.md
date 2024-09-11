@@ -12,15 +12,15 @@ redirect_from:
 <!-- <a href="https://hackmd.io/GbY28RBLQQWtuam7axGfGg" title="Optional Title">CGU CS Course & some tools</a><br><br> -->
 
 <div class="homepage">
+ <p class="map-title">Website</p>
  <img src="/images/rocky.gif" style="width:100%">
- <p class="map-title">My Website</p>
  <p> Life is like a long marathon, with every step building upon the last.  </p>
  <p> No matter how difficult the path may be, we hope to rely on unwavering faith and effort to eventually reach the ideal destination. </p>
  <p> Through continuous self-improvement, we aspire to create a life that truly belongs to us. </p>
 </div>
 
 <div class="github">
-  <p class="map-title">My Github</p>
+  <p class="map-title">Github</p>
   <div class="center">
   <a href="https://github.com/jacksonchen1998">
       <img class="img-fluid" src="https://github-readme-stats.vercel.app/api/?username=jacksonchen1998&theme=default&show_icons=true" alt="jacksonchen1998">
@@ -53,7 +53,7 @@ redirect_from:
 <br><br><br><br><br><br>
 
 <div class="map">
-  <p class="map-title">My Personal Map</p>
+  <p class="map-title">Personal Map</p>
   <iframe src="https://www.google.com/maps/d/u/0/embed?mid=11uEqrUqviLk2cDmxT0INWQeQCyVYESs&ehbc=2E312F" width="100%" height="480"></iframe>
 </div>
 
