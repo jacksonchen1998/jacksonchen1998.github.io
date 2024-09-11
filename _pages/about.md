@@ -12,6 +12,7 @@ redirect_from:
 <!-- <a href="https://hackmd.io/GbY28RBLQQWtuam7axGfGg" title="Optional Title">CGU CS Course & some tools</a><br><br> -->
 
 <div class="homepage">
+ <img src="/images/rocky.gif" style="width:100%">
  <p class="map-title">My Website</p>
  <p> Life is like a long marathon, with every step building upon the last.  </p>
  <p> No matter how difficult the path may be, we hope to rely on unwavering faith and effort to eventually reach the ideal destination. </p>
