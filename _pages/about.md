@@ -14,9 +14,12 @@ redirect_from:
 <div class="homepage">
  <p class="map-title">Website</p>
  <img src="/images/rocky.gif" style="width:100%">
+ <div>
+ <br>
  <p> Life is like a long marathon, with every step building upon the last.  </p>
  <p> No matter how difficult the path may be, we hope to rely on unwavering faith and effort to eventually reach the ideal destination. </p>
  <p> Through continuous self-improvement, we aspire to create a life that truly belongs to us. </p>
+ </div>
 </div>
 
 <div class="github">
