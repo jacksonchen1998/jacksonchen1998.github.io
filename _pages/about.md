@@ -13,7 +13,9 @@ redirect_from:
 
 <div class="homepage">
  <p class="map-title">Website</p>
- <img src="/images/rocky.gif" style="width:100%">
+ <a href="https://youtu.be/_YYmfM2TfUA?feature=shared" target="_blank">
+    <img src="/images/rocky.gif" style="width:100%">
+</a>
  <div>
  <br>
  <p> Life is like a long marathon, with every step building upon the last.  </p>
