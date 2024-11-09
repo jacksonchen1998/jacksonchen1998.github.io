@@ -5,7 +5,7 @@ permalink: /publication/2024-11-01-Convcounsel
 excerpt: 'Dataset for student counseling'
 date: 2024-11-01
 venue: 'O-COCOSDA'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2411.00604'
 ---
 
 **This paper won best student paper award in 2024!**
