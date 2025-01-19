@@ -23,3 +23,4 @@ permalink: /posts/2024-10-12-posts
 - [Atomic Habits](https://medium.com/@jackson1998/my-thoughts-about-atomic-habits-88cfb80583f8)
 - [情緒掌控 決定你的人生格局](https://jackson1998.medium.com/my-thoughts-about-%E6%83%85%E7%B7%92%E6%8E%8C%E6%8E%A7-%E6%B1%BA%E5%AE%9A%E4%BD%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E6%A0%BC%E5%B1%80-116fc19f40e8)
 - [底層邏輯](https://medium.com/@jackson1998/my-thoughts-about-the-underlying-logic-546bfafd00df)
+- [被討厭的勇氣](https://jackson1998.medium.com/my-thoughts-about-the-courage-to-be-disliked-b018142749d9)
