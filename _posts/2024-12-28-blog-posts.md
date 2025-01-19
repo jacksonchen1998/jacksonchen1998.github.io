@@ -1,7 +1,7 @@
 ---
 title: "2025 New Year Resolution"
 type: "posts"
-permalink: /posts/2025-12-28-posts
+permalink: /posts/2024-12-28-posts
 ---
 
 It’s the end of 2024 again. In last year’s article, “[2024 New Year Resolution](https://jackson1998.medium.com/2024-new-year-resolution-cb13f6d926da),” I mentioned 10 things I wanted to accomplish in 2024.
