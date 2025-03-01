@@ -8,7 +8,7 @@ date: 2024-09-09
 location: "Hsinchu, Taiwan"
 ---
 
-**Expected to join in March 2025**
+Duration: March. 2025 - Present
 
 Job Description
 ======
