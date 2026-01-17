@@ -284,12 +284,6 @@ img {vertical-align: middle;}
 let slideIndex = 1;
 showSlides(slideIndex);
 
-// Move modal to body to ensure it covers the entire screen
-var modal = document.getElementById("myModal");
-if (modal && modal.parentNode !== document.body) {
-  document.body.appendChild(modal);
-}
-
 let slideInterval = setInterval(function() { plusSlides(1); }, 3000);
 
 function plusSlides(n) {
