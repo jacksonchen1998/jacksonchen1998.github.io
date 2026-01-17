@@ -175,7 +175,7 @@ img {vertical-align: middle;}
   text-align: center;
 }
 
-.homepage p {
+.homepage div p {
   margin-bottom: 10px;
   color: #555;
 }
@@ -196,22 +196,25 @@ img {vertical-align: middle;}
   display: none; 
   position: fixed; 
   z-index: 2000; 
-  padding-top: 60px; 
   left: 0;
   top: 0;
   width: 100%; 
   height: 100%; 
   overflow: auto; 
-  background-color: rgba(0,0,0,0.95); 
-  backdrop-filter: blur(5px);
+  background-color: rgba(0,0,0,0.6); 
+  backdrop-filter: blur(10px);
+  align-items: center;
+  justify-content: center;
 }
 
 /* Modal Content (image) */
 .modal-content {
   margin: auto;
   display: block;
-  width: 80%;
-  max-width: 900px;
+  width: auto;
+  max-width: 90%;
+  max-height: 90vh;
+  object-fit: contain;
   border-radius: 8px;
   box-shadow: 0 0 20px rgba(255,255,255,0.1);
   animation-name: zoom;
@@ -247,23 +250,14 @@ img {vertical-align: middle;}
 
 <div class="slideshow-container">
 
+{% assign slide_images = site.static_files | where_exp: "item", "item.path contains '/images/slide/'" %}
+{% for image in slide_images %}
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img src="/images/scence.png" style="width:100%" onclick="openModal(this)">
-  <div class="text">Flying to the unknown</div>
+  <div class="numbertext">{{ forloop.index }} / {{ slide_images.size }}</div>
+  <img src="{{ image.path }}" style="width:100%" onclick="openModal(this)">
+  <div class="text"></div>
 </div>
-
-<div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="/images/scence2.png" style="width:100%" onclick="openModal(this)">
-  <div class="text">Australian Beach</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="/images/scence3.png" style="width:100%" onclick="openModal(this)">
-  <div class="text">Street View of Central Park, New York</div>
-</div>
+{% endfor %}
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
 <a class="next" onclick="plusSlides(1)">❯</a>
@@ -272,9 +266,9 @@ img {vertical-align: middle;}
 <br>
 
 <div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
+{% for image in slide_images %}
+  <span class="dot" onclick="currentSlide({{ forloop.index }})"></span>
+{% endfor %}
 </div>
 
 <div id="myModal" class="modal">
@@ -285,18 +279,18 @@ img {vertical-align: middle;}
 <script>
 let slideIndex = 1;
 showSlides(slideIndex);
-let slideInterval = setInterval(function() { plusSlides(1); }, 1000);
+let slideInterval = setInterval(function() { plusSlides(1); }, 3000);
 
 function plusSlides(n) {
   clearInterval(slideInterval);
   showSlides(slideIndex += n);
-  slideInterval = setInterval(function() { plusSlides(1); }, 1000);
+  slideInterval = setInterval(function() { plusSlides(1); }, 3000);
 }
 
 function currentSlide(n) {
   clearInterval(slideInterval);
   showSlides(slideIndex = n);
-  slideInterval = setInterval(function() { plusSlides(1); }, 1000);
+  slideInterval = setInterval(function() { plusSlides(1); }, 3000);
 }
 
 function showSlides(n) {
@@ -316,11 +310,18 @@ function showSlides(n) {
 }
 
 function openModal(element) {
-  document.getElementById("myModal").style.display = "block";
+  document.getElementById("myModal").style.display = "flex";
   document.getElementById("img01").src = element.src;
 }
 
 function closeModal() {
   document.getElementById("myModal").style.display = "none";
 }
+
+// When the user clicks on the modal background (not the image), close it.
+document.getElementById('myModal').addEventListener('click', function(event) {
+  if (event.target === this) {
+    closeModal();
+  }
+});
 </script>
