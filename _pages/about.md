@@ -191,59 +191,6 @@ img {vertical-align: middle;}
   transform: scale(1.02);
 }
 
-/* The Modal (background) */
-.modal {
-  display: none; 
-  position: fixed; 
-  z-index: 9999; 
-  left: 0;
-  top: 0;
-  width: 100%; 
-  height: 100%; 
-  overflow: auto; 
-  background-color: rgba(0,0,0,0.6); 
-  backdrop-filter: blur(10px);
-  align-items: center;
-  justify-content: center;
-}
-
-/* Modal Content (image) */
-.modal-content {
-  margin: auto;
-  display: block;
-  width: auto;
-  max-width: 90%;
-  max-height: 90vh;
-  object-fit: contain;
-  border-radius: 8px;
-  box-shadow: 0 0 20px rgba(255,255,255,0.1);
-  animation-name: zoom;
-  animation-duration: 0.6s;
-}
-
-@keyframes zoom {
-  from {transform:scale(0)} 
-  to {transform:scale(1)}
-}
-
-/* The Close Button */
-.close {
-  position: absolute;
-  top: 20px;
-  right: 35px;
-  color: #f1f1f1;
-  font-size: 40px;
-  font-weight: bold;
-  transition: 0.3s;
-  z-index: 10000;
-}
-
-.close:hover,
-.close:focus {
-  color: #bbb;
-  text-decoration: none;
-  cursor: pointer;
-}
 </style>
 
 <body>
@@ -254,7 +201,7 @@ img {vertical-align: middle;}
 {% for image in slide_images %}
 <div class="mySlides fade">
   <div class="numbertext">{{ forloop.index }} / {{ slide_images.size }}</div>
-  <img src="{{ image.path }}" style="width:100%" onclick="openModal(this)">
+  <img src="{{ image.path }}" style="width:100%">
   <div class="text"></div>
 </div>
 {% endfor %}
@@ -273,11 +220,6 @@ img {vertical-align: middle;}
 {% for image in slide_images %}
   <span class="dot" onclick="currentSlide({{ forloop.index }})"></span>
 {% endfor %}
-</div>
-
-<div id="myModal" class="modal">
-  <span class="close" onclick="closeModal()">&times;</span>
-  <img class="modal-content" id="img01">
 </div>
 
 <script>
@@ -315,20 +257,4 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
 }
-
-function openModal(element) {
-  document.getElementById("myModal").style.display = "flex";
-  document.getElementById("img01").src = element.src;
-}
-
-function closeModal() {
-  document.getElementById("myModal").style.display = "none";
-}
-
-// When the user clicks on the modal background (not the image), close it.
-document.getElementById('myModal').addEventListener('click', function(event) {
-  if (event.target === this) {
-    closeModal();
-  }
-});
 </script>
