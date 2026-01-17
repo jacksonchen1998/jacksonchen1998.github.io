@@ -195,7 +195,7 @@ img {vertical-align: middle;}
 .modal {
   display: none; 
   position: fixed; 
-  z-index: 2000; 
+  z-index: 9999; 
   left: 0;
   top: 0;
   width: 100%; 
@@ -235,7 +235,7 @@ img {vertical-align: middle;}
   font-size: 40px;
   font-weight: bold;
   transition: 0.3s;
-  z-index: 2001;
+  z-index: 10000;
 }
 
 .close:hover,
@@ -279,6 +279,13 @@ img {vertical-align: middle;}
 <script>
 let slideIndex = 1;
 showSlides(slideIndex);
+
+// Move modal to body to ensure it covers the entire screen
+var modal = document.getElementById("myModal");
+if (modal && modal.parentNode !== document.body) {
+  document.body.appendChild(modal);
+}
+
 let slideInterval = setInterval(function() { plusSlides(1); }, 3000);
 
 function plusSlides(n) {
