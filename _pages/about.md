@@ -250,7 +250,7 @@ img {vertical-align: middle;}
 
 <div class="slideshow-container">
 
-{% assign slide_images = site.static_files | where_exp: "item", "item.path contains '/images/slide/'" %}
+{% assign slide_images = site.static_files | where_exp: "item", "item.path contains 'images/slide/'" %}
 {% for image in slide_images %}
 <div class="mySlides fade">
   <div class="numbertext">{{ forloop.index }} / {{ slide_images.size }}</div>
@@ -258,6 +258,10 @@ img {vertical-align: middle;}
   <div class="text"></div>
 </div>
 {% endfor %}
+
+{% if slide_images.size == 0 %}
+  <div style="text-align:center; padding:20px; color: red;">No images found. Please ensure folder <b>images/slide</b> exists and restart server.</div>
+{% endif %}
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
 <a class="next" onclick="plusSlides(1)">❯</a>
@@ -304,6 +308,8 @@ function showSlides(n) {
   let i;
   let slides = document.getElementsByClassName("mySlides");
   let dots = document.getElementsByClassName("dot");
+  if (slides.length === 0) return;
+
   if (n > slides.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
